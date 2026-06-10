@@ -108,20 +108,6 @@ function Register() {
                   />
                 </div>
 
-                {/* <div className="mb-4">
-                  <label className="form-label">Role</label>
-
-                  <select
-                    className="form-select"
-                    value={role}
-                    onChange={(e) => setRole(e.target.value)}
-                  >
-                    <option value="TENANT">TENANT</option>
-
-                    <option value="STAFF">STAFF</option>
-                  </select>
-                </div> */}
-
                 <button type="submit" className="btn btn-primary w-100">
                   Register
                 </button>

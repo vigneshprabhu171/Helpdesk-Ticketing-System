@@ -122,9 +122,3 @@ REOPENED (Optional)
 
 ---
 
-
-## 👨‍💻 Author
-
-**Vignesh Prabhu**
-
-GitHub: https://github.com/vigneshprabhu171

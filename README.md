@@ -28,7 +28,7 @@ The application enables tenants to raise support requests, staff members to mana
 - React.js
 
 ### Backend
--Java Spring Boot
+- Java Spring Boot
 
 ### Database
 - PostgreSQL

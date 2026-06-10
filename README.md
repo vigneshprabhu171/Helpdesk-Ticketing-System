@@ -26,14 +26,9 @@ The application enables tenants to raise support requests, staff members to mana
 
 ### Frontend
 - React.js
-- Bootstrap
-- Axios
-- React Router DOM
 
 ### Backend
-- Spring Boot
-- Spring Data JPA
-- Maven
+-Java Spring Boot
 
 ### Database
 - PostgreSQL

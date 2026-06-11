@@ -101,6 +101,37 @@ Password : tenant123
 
 ---
 
+## 🚀 Deployment
+
+### Frontend
+
+```text
+Platform : Netlify
+Live URL : https://helpdesktktsys.netlify.app
+```
+
+### Backend
+
+```text
+Platform     : Railway
+API Base URL : https://helpdesk-ticketing-system-production.up.railway.app
+```
+
+### Database
+
+```text
+Platform : Neon PostgreSQL
+```
+
+### Source Code
+
+```text
+Repository : https://github.com/vigneshprabhu171/Helpdesk-Ticketing-System
+```
+
+---
+
+
 ## 🔄 Ticket Workflow
 
 ```text

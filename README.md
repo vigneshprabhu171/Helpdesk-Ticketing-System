@@ -85,17 +85,29 @@ Email    : admin@helpdesk.com
 Password : admin123
 ```
 
-### Staff
+### Staffs
 
 ```text
 Email    : staff1@helpdesk.com
 Password : staff123
 ```
+```text
+Email    : staff2@helpdesk.com
+Password : staff123
+```
 
-### Tenant
+### Tenants
 
 ```text
 Email    : vignesh@gmail.com
+Password : tenant123
+```
+```text
+Email    : tenant2@gmail.com
+Password : tenant123
+```
+```text
+Email    : tenant3@gmail.com
 Password : tenant123
 ```
 
